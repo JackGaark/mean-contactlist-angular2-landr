@@ -1,6 +1,9 @@
 {
   "name": "mean-contactlist-angular2-landr",
   "version": "0.0.0",
+  "engines":{
+    "node": "10.14.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node serve.js",
